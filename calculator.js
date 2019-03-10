@@ -110,7 +110,7 @@ $(document).keypress(function(event) {
 	else if (event.key == "d") {
 		selectNext();
 	}
-	else if (event.key == " ") {
+	else if (event.key == "l") {
 		clickSelectedItem();
 	}
 })
